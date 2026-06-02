@@ -1,3 +1,4 @@
+print("\033[1;32m -------Welcome to Student Management System !-------\033[0m\n")
 def add_Student_Details():
     BORDER = "+----+---------------------+----+----------+----------+---------------------------+-------------------------+\n"
     students=int(input("\033[1;34;5;208m Enter the number of student : \033[0m"))
